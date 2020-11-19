@@ -9,7 +9,8 @@ default_package = {
     'lv': 'lvtb',
     'fr': 'gsd',
     'ru': 'SynTagRus',
-    'de': 'hdt'
+    'de': 'hdt',
+    'es': 'ancora'
 }
 
 
